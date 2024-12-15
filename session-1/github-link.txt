@@ -1,0 +1,2 @@
+inventory-service : https://hub.docker.com/repository/docker/hemanthgajjarapu/inventory-app/general
+order-service : https://hub.docker.com/repository/docker/hemanthgajjarapu/order-app/general
